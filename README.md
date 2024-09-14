@@ -2,4 +2,3 @@
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/tQNTraQOa4AAAAAd/major-hellsing.gif"> 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/fCNWppnFSSQAAAAC/anime.gif">
 <img align="right" alt="Coding" width="400" src="https://github.com/isqnix/iluha_skachai_yety_presentation/blob/main/photo_2024-09-14_02-43-35.jpg?raw=true"> 
-<img align="right" alt="Coding" width="400" src="https://github.com/isqnix/iluha_skachai_yety_presentation/blob/main/photo_2024-09-14_02-43-35.jpg?raw=true"> 
